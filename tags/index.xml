@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Under the moon</title>
+    <link>https://abhi1agarwal.github.io/tags/</link>
+    <description>Recent content in Tags on Under the moon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Jul 2021 16:58:00 +0530</lastBuildDate><atom:link href="https://abhi1agarwal.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Say Hi</title>
+      <link>https://abhi1agarwal.github.io/tags/say-hi/</link>
+      <pubDate>Sat, 24 Jul 2021 16:58:00 +0530</pubDate>
+      
+      <guid>https://abhi1agarwal.github.io/tags/say-hi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vno</title>
+      <link>https://abhi1agarwal.github.io/tags/vno/</link>
+      <pubDate>Sat, 24 Jul 2021 16:58:00 +0530</pubDate>
+      
+      <guid>https://abhi1agarwal.github.io/tags/vno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://abhi1agarwal.github.io/tags/golang/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://abhi1agarwal.github.io/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://abhi1agarwal.github.io/tags/hugo/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://abhi1agarwal.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://abhi1agarwal.github.io/tags/programming/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://abhi1agarwal.github.io/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theme</title>
+      <link>https://abhi1agarwal.github.io/tags/theme/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://abhi1agarwal.github.io/tags/theme/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

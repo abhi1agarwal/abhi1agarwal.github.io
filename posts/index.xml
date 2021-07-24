@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Under the moon</title>
+    <link>https://abhi1agarwal.github.io/posts/</link>
+    <description>Recent content in Posts on Under the moon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Jul 2021 16:58:00 +0530</lastBuildDate><atom:link href="https://abhi1agarwal.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://abhi1agarwal.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 24 Jul 2021 16:58:00 +0530</pubDate>
+      
+      <guid>https://abhi1agarwal.github.io/posts/my-first-post/</guid>
+      <description>My main heading It&amp;rsquo;s so exciting writing my first hugo blog post.
+A smaller heading  Wow these bullets are way easier than HTML bullets! Enough writing, let&amp;rsquo;s see what it looks like!  </description>
+    </item>
+    
+  </channel>
+</rss>
